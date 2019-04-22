@@ -1,0 +1,41 @@
+
+{"students" :[
+    {
+      "studentId": 1,
+      "StudentName": "Rajesh Kaur",
+      "Category": "Domestic",
+      "DOB": "March 19,2016",
+      "FatherName": "Ragavendra",
+      "MotherName":"Radha",
+      "LastScoreCard":50
+    },
+    {
+      "studentId": 2,
+      "StudentName": "Madhu Singh",
+      "Category": "International",
+      "DOB": "March 20,1995",
+      "FatherName": "Madhusudhan",
+      "MotherName":"Rashmi",
+      "LastScoreCard":70
+    },
+    {
+      "studentId": 3,
+      "StudentName": "Raman Chadha",
+      "Category": "International",
+      "DOB": "June 20,2000",
+      "FatherName": "Sumith",
+      "MotherName":"Sunitha",
+      "LastScoreCard":50
+    },
+    {
+      "studentId": 4,
+      "StudentName": "Raju Sehgal",
+      "Category": "Domestic",
+      "DOB": "July 20,2000",
+      "FatherName": "Rajesh",
+      "MotherName":"Madhu",
+      "LastScoreCard":50
+    }
+    
+  ]
+}
